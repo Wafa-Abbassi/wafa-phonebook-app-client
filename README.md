@@ -55,8 +55,9 @@ PhoneBook app server is hosted in heroku : https://wafaphonebook.herokuapp.com/ 
 react app is on netlify : https://wafaphonebook.netlify.com/
 
 
-to run the app: server side : npm run server --> in server you need to create dev.js file in config folder to make environment variables ( to run the app locally ). <br/>
-        client side : npm run start
+## How to run the app: 
+server side : npm run server --> in server you need to create dev.js file in config folder to make environment variables ( to run the app locally ). <br/>
+client side : npm run start
 
 
 Here you can checkout final version and test the app : https://wafaphonebook.netlify.com/
