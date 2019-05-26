@@ -11,7 +11,7 @@ App contains next pages (which switch with react-router):
 	    search
 	    Log out
 
-# Contacts ( in Dashbord ) 
+## Contacts ( in Dashbord ) 
 
 It's a starting page which show all user's contacts with short list of data (photo, name, first name, phone). In online connection data takes from mongoDB database storage and put into Redux global storage. 
 
