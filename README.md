@@ -1,6 +1,6 @@
 # PhoneBook-App: 
 
-It's a single page react app ( smooth and responsive one ), that simulate multiple page app with react-router mode. It use Cloudinary database for save contacts photo and data. Also, facebook account kit for login system with phone ( verfication included ).
+It's a single page react app ( smooth and responsive one ), that simulate multiple page app with react-router mode. It use Cloudinary database for save contacts photo and data. Also, facebook account kit for login system with phone ( verification included ).
 
 App contains next pages (which switch with react-router):
 
@@ -48,7 +48,7 @@ cloudinary ( for images server )
 netlify ( react hosting )
 heroku ( express server hosting )
 
-PhoneBook app server is hosted in heroku : https://wafaphonebook.herokuapp.com/
+PhoneBook app server is hosted in heroku : https://wafaphonebook.herokuapp.com/ \par
 react app is on netlify : https://wafaphonebook.netlify.com/
 
 
