@@ -37,22 +37,22 @@ pagination i limit 15 contacts only in one page ( so if you create 20 contacts: 
 
 ## Used technologies:
 
-Front-End: react/redux <br/>;
-Back-End: express.js (node.js) <br/>;
-Database: mongoDB database <br/>;
+Front-End: react/redux <br/> 
+Back-End: express.js (node.js) <br/>
+Database: mongoDB database <br/>
 
 other tools:
 
-redux-form ( for form handling ) <br/>;
-cloudinary ( for images server ) <br/>;
-netlify ( react hosting ) <br/>;
-heroku ( express server hosting ) <br/>;
+redux-form ( for form handling ) <br/>
+cloudinary ( for images server ) <br/>
+netlify ( react hosting ) <br/>
+heroku ( express server hosting ) <br/>
 
-PhoneBook app server is hosted in heroku : https://wafaphonebook.herokuapp.com/ <br/>;
+PhoneBook app server is hosted in heroku : https://wafaphonebook.herokuapp.com/ <br/>
 react app is on netlify : https://wafaphonebook.netlify.com/
 
 
-to run the app: server side : npm run server --> in server you need to create dev.js file in config folder to make environment variables ( to run the app locally ). <br/>;
+to run the app: server side : npm run server --> in server you need to create dev.js file in config folder to make environment variables ( to run the app locally ). <br/>
         client side : npm run start
 
 
