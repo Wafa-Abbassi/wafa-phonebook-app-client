@@ -37,11 +37,11 @@ pagination i limit 15 contacts only in one page ( so if you create 20 contacts: 
 
 ## Used technologies:
 
-<ol>
+<ul>
     <li>Front-End: react/redux</li>
     <li>Back-End: express.js (node.js)</li>
     <li>Database: mongoDB database </li>
-</ol>
+</ul>
 
 other tools:
 
