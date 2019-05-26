@@ -1,0 +1,8 @@
+.footerWrapper {
+    background-image: linear-gradient(120deg,#ABD0CE 0%, #D9D4CF 100%);
+}
+
+.linkItem {
+    text-decoration: none;
+    color : #fff;
+}
