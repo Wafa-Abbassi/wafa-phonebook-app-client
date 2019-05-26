@@ -43,12 +43,13 @@ pagination i limit 15 contacts only in one page ( so if you create 20 contacts: 
     <li>Database: mongoDB database </li>
 </ul>
 
-other tools:
-
-redux-form ( for form handling ) <br/>
-cloudinary ( for images server ) <br/>
-netlify ( react hosting ) <br/>
-heroku ( express server hosting ) <br/>
+## other tools:
+<ul>
+    <li>redux-form ( for form handling )</li>
+    <li>cloudinary ( for images server )</li>
+    <li>netlify ( react hosting )</li>
+    <li>heroku ( express server hosting )</li>
+</ul>
 
 PhoneBook app server is hosted in heroku : https://wafaphonebook.herokuapp.com/ <br/>
 react app is on netlify : https://wafaphonebook.netlify.com/
